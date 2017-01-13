@@ -1,4 +1,4 @@
 openmediavault-sftp
 ===================
 
-sftp plugin for openmediavault
+sftp plugin for openmediavault.
